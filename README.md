@@ -40,6 +40,6 @@ _(Stay tuned! Projects are being added...)_
 
 I’m open to work and always excited to collaborate or learn something new.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: yourname@email.com *(replace with your real email)*  
+- 🌐 [(https://www.linkedin.com/in/marwa-szalai-568705357/)] 
+- 📧 Email: marwaszalai@gmail.com  
 - 🗂️ GitHub Repos:
